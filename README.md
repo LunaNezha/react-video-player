@@ -1,8 +1,9 @@
-
 # **React Video Player**
 
 A custom video player built using **React**, **Vite**, **Ionic**, and **TailwindCSS**, designed to function without relying on third-party libraries. This lightweight and flexible solution emphasizes a modern tech stack for crafting custom multimedia experiences.
 
+![App Screenshot](src/assets/images/screenshot-1.png)
+![App Screenshot](src/assets/images/screenshot-2.png)
 
 ## 🛠 **Features**
 
@@ -17,8 +18,6 @@ A custom video player built using **React**, **Vite**, **Ionic**, and **Tailwind
 - **Encrypt** video source
 - Support .m3u8 format using **ffmpeg**
 
-
-
 ## 💻 **Tech Stack**
 
 - **React**: Component-based UI framework.
@@ -26,6 +25,7 @@ A custom video player built using **React**, **Vite**, **Ionic**, and **Tailwind
 - **Ionic**: Framework for cross-platform mobile/web apps.
 - **TailwindCSS**: Utility-first CSS framework.
 - **TypeScript**: Static type checking for JavaScript.
+
 ## 🚀 **Run Locally**
 
 Clone the project
@@ -49,9 +49,8 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  ionic serve
 ```
-
 
 ## ✅ **Running Tests**
 
@@ -61,8 +60,8 @@ To run tests, run the following command
   npm run test
 ```
 
-
 ## 👩 **About Me**
+
 Seasoned front-end developer with over eight years of experience specializing in pharmacy-focused solutions. Proven expertise in building scalable systems that enhance patient care and streamline pharmacy management. Delivering impactful software solutions with measurable outcomes, such as improving operational efficiency, reducing errors, and elevating user satisfaction.
 
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://lunanezha.com/)
@@ -71,11 +70,12 @@ Seasoned front-end developer with over eight years of experience specializing in
 ## 💡 **Support**
 
 For support, email mahdie.nezhadhosseini@gmail.com.
+
 ## 🤝 **Contributing**
 
 Contributions are always welcome!
 
 ## 📝 **License**
 
-This project is licensed under the 
+This project is licensed under the
 [MIT](https://choosealicense.com/licenses/mit/) License. See the LICENSE file for details.

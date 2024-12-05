@@ -34,7 +34,7 @@ A custom video player built using **React**, **Vite**, **Ionic**, and **Tailwind
 Clone the project
 
 ```bash
-  git clone https://link-to-project
+  git clone https://github.com/LunaNezha/react-video-player
 ```
 
 Go to the project directory
